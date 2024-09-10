@@ -7,8 +7,12 @@ git code : https://github.com/yyliu01/RPL/tree/main
 data link: https://drive.google.com/drive/u/0/folders/18qCyDfeVEeMtmGzPcXllQva_5NT-fTi1
 
 coco
+- coco train 2017 package
+- To make binary mask, please giclone metaood.
+- my dataroot is ~/home/user/datafile/cocofull
 
 Cityscape
+
 
 Fishscape 
 
