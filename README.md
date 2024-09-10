@@ -22,5 +22,5 @@ CityScape: https://www.cityscapes-dataset.com/
 
 FishScape: https://fishyscapes.com/dataset
 
-CoCo: https://cocodataset.org/#home 
+CoCo: https://cocodataset.org/#home or $wget http://images.cocodataset.org/zips/train2017.zip 
 
