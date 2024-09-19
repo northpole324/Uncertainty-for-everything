@@ -24,3 +24,5 @@ FishScape: https://fishyscapes.com/dataset
 
 CoCo: https://cocodataset.org/#home or $wget http://images.cocodataset.org/zips/train2017.zip 
 
+To save mix image 
+$ python mix_image.py
