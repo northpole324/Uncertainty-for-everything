@@ -148,7 +148,7 @@ for idx in range(len(train_dataset)):
     print(f"Image {idx} saved at: {save_path}")
 print("All images have been saved ")
 
-def main():
+def main(config):
     preprocess = Preprocess(config)
     city_img = generate_random_image(config.city_image_height, config.city_image_width)
     city_gt = generate_random_gt(config.city_image_height, config.city_image_width)
